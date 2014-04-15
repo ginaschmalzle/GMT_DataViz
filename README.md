@@ -1,5 +1,5 @@
-GMT_DataViz
-===========
+GMT Data Visualizations
+==========================
 
 Class on using GMT for mapping and data visualization.
 
