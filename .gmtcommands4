@@ -1,0 +1,9 @@
+# GMT common arguments shelf
+-B1:Longitude:/10:Depth:WSen
+-JM15
+-JX15/-5
+-R-124/-120/0/50
+-Y12
+-y-8
+-jX15/-5
+EOF
