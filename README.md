@@ -3,7 +3,7 @@ GMT Data Visualizations
 
 Class on using GMT for mapping and data visualization.
 
-See geodesygina.com for more information.
+See <http://geodesygina.com/GMT.html> for more information.
 
 Example data visualization with General Mapping Tools, version 4: http://gmt.soest.hawaii.edu/gmt4/, by Gina Schmalzle, 14APR2014
 Be aware that some adjustments to the scripts will need to be made if you are using GMT 5. For exmaple, you will need to write 'gmt' before executing the GMT command.  Also, some of the options have changed.  I plan to make these changes in the near future.
